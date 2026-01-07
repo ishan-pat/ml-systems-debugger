@@ -347,9 +347,6 @@ This is a research- and production-grade system. Contributions should:
 - Explain design tradeoffs
 - Include examples for new detectors/ingestors
 
-## License
-
-[Specify your license here]
 
 ## Acknowledgments
 
